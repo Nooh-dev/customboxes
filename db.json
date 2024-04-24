@@ -1,0 +1,64 @@
+{
+  "category": [
+    {
+      "id": "devops",
+      "products": [
+        {
+          "image": "https://media.pakfactory.com/media_upload/coding_guide/folding-carton-boxes.webp",
+          "name": "CBD Packaging",
+          "quote": "Perfect packaging solution for CBD products."
+        },
+        {
+          "image": "https://media.pakfactory.com/media_upload/coding_guide/corrugated-boxes.webp",
+          "name": "Custom Retail Packaging",
+          "quote": "Tailored packaging for retail businesses."
+        },
+        {
+          "image": "https://media.pakfactory.com/media_upload/coding_guide/rigid-boxes.webp",
+          "name": "Rigid Boxes",
+          "quote": "Luxurious packaging for high-end products."
+        },
+        {
+          "image": "https://media.pakfactory.com/media_upload/coding_guide/box-packaging-inserts.webp",
+          "name": "Food Packaging",
+          "quote": "Safe and hygienic packaging for food items."
+        },
+        {
+          "image": "https://media.pakfactory.com/media_upload/coding_guide/flexible-pouches.webp",
+          "name": "Cosmetic Packaging Boxes",
+          "quote": "Beautiful packaging for cosmetic products."
+        },
+        {
+          "image": "https://media.pakfactory.com/media_upload/coding_guide/reusable-bags.webp",
+          "name": "Eco-Friendly Packaging",
+          "quote": "Environmentally friendly packaging solutions."
+        },
+        {
+          "image": "https://s3.amazonaws.com/sireprinting.com/categories/1667385954Woven-Labels.webp",
+          "name": "Woven Labels",
+          "quote": "High-quality labels for branding."
+        },
+        {
+          "image": "https://s3.amazonaws.com/sireprinting.com/categories/1667385932Custom-Tags.webp",
+          "name": "Custom Hang Tags",
+          "quote": "Personalized tags for merchandise."
+        },
+        {
+          "image": "https://s3.amazonaws.com/sireprinting.com/categories/1667385890Woven-Patches.webp",
+          "name": "Woven Embroidered Patches",
+          "quote": "Custom patches for clothing and accessories."
+        },
+        {
+          "image": "https://s3.amazonaws.com/sireprinting.com/categories/1667385858Christmas-Boxes.webp",
+          "name": "Christmas Boxes",
+          "quote": "Festive packaging for holiday season."
+        },
+        {
+          "image": "https://s3.amazonaws.com/sireprinting.com/categories/1667385823Cardboard-Boxes.webp",
+          "name": "Cardboard Boxes",
+          "quote": "Versatile packaging solution for various products."
+        }
+      ]
+    }
+  ]
+}
